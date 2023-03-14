@@ -1,16 +1,25 @@
-### Hi there 👋
+### 👋 gm gm, I'm Fabian aka [0xfabs](https://twitter.com/0xfabs)
 
-<!--
-**fabianhug/fabianhug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a Developer Advocate at [Staking Rewards](https://www.stakingrewards.com/) with a passion for blockchain and Web3 technologies.  
+As a former software engineer with a strong background in computer science, I specialize in building decentralized applications, creating smart contracts, and developing engaging user interfaces that leverage blockchain technology.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 In addition to my work, I've also written several papers on blockchain-based topics, including 
+  - "IoT data stream using distributed ledger technology IOTA/Tangle"
+  - "Global regulations of the use of blockchain and cryptocurrencies - An overview of different national regulatory approaches Blockchain-based payment systems"
+  - "Blockchain and Business Continuity / Disaster Recovery."
+
+
+🎤 I'm also a frequent speaker and have spoken at events such as:
+  - "NFT's in the Metaverse - Utopia or Reality?" - Hanseatic Blockchain Institute - Blockchain Monday
+  - "DIVE INTO THE METAVERSE" @ Blockstadt 
+  - "VR & NFT Art" @ [Taylor Wessing](https://taylorwessing.com) #005, 
+  - "NFTs: Unlocking the Potential of Blockchain Technology" @ Blockchain Association Schleswig-Holstein e.V. / opencampus.sh
+ 
+  where I've discussed topics such as NFTs in the Metaverse and unlocking the potential of blockchain technology.
+  
+
+🤝 Whether you're a seasoned professional or a curious newcomer, I'm here to help you navigate the complex world of blockchain and Web3 technologies. Let's explore new possibilities and create amazing things together!
+
+⚡ Fun fact: The term "smart contract" was coined by computer scientist Nick Szabo in 1994, over a decade before the creation of the first blockchain.
+
