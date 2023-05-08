@@ -1,7 +1,7 @@
 ### 👋 gm gm, I'm Fabian aka [0xfabs](https://twitter.com/0xfabs)
 
 💻 I'm a Developer Advocate at [Staking Rewards](https://www.stakingrewards.com/) with a passion for blockchain and Web3 technologies.  
-As a former software engineer with a strong background in computer science, I specialize in building decentralized applications, creating smart contracts, and developing engaging user interfaces that leverage blockchain technology.
+As a former software engineer with a strong background in computer science, I specialize in building decentralized applications, creating smart contracts, and developing engaging user experiences that leverage blockchain technology.
 
 
 📚 In addition to my work, I've also written several papers on blockchain-based topics, including 
