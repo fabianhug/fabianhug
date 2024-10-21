@@ -1,7 +1,8 @@
 ### 👋 gm gm, I'm Fabian aka [0xfabs](https://twitter.com/0xfabs)
 
-💻 I'm a Developer Advocate at [Staking Rewards](https://www.stakingrewards.com/) with a passion for blockchain and Web3 technologies.  
-As a former software engineer with a strong background in computer science, I specialize in building decentralized applications, creating smart contracts, and developing engaging user experiences that leverage blockchain technology.
+💻 I'm building [devrel.directory](devrel.directory)
+
+Previously, I worked as a Developer Advocate at [Staking Rewards](https://www.stakingrewards.com/) with a passion for blockchain and Web3 technologies. As a former software engineer with a strong background in computer science, I specialize in building decentralized applications, creating smart contracts, and developing engaging user experiences that leverage blockchain technology.
 
 
 📚 In addition to my work, I've also written several papers on blockchain-based topics, including 
@@ -19,7 +20,4 @@ As a former software engineer with a strong background in computer science, I sp
   where I've discussed topics such as NFTs in the Metaverse and unlocking the potential of blockchain technology.
   
 
-🤝 Whether you're a seasoned professional or a curious newcomer, I'm here to help you navigate the complex world of blockchain and Web3 technologies. Let's explore new possibilities and create amazing things together!
-
-⚡ Fun fact: The term "smart contract" was coined by computer scientist Nick Szabo in 1994, over a decade before the creation of the first blockchain.
-
+🤝 Whether you're a seasoned professional or a curious newcomer, I'm here to help you navigate the complex world of blockchain and Web3 technologies. Let's explore new possibilities and create amazing things together
