@@ -1,6 +1,6 @@
 ### 👋 gm gm, I'm Fabian
 
-I'm leading Developer Relations at [Swell Labs](https://github.com/SwellNetwork) and contributing to [ai16z](https://github.com/ai16z)\
+I'm leading Developer Relations at [Swell Labs](https://github.com/SwellNetwork) and contributing to [ai16z](https://github.com/ai16z) / [elizaOS](https://github.com/elizaOS) \
 When there's some time left, I'm building [devrel.directory](devrel.directory)
 
 I used to have some content written in this intro, but I figured it was all blah blah.
